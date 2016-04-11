@@ -1,0 +1,14 @@
+Lint time is: 2016/03/23 ÖÜÈý 17:03:18.30
+--- Lint gcc linux kernel 
+C:\lint_stw\lint-nt.exe +fdi -b -ffc -u -ffo -iC:\lint_stw\    LNTOPT\gcc.lnt  LNTOPT\storware-linux-kernel.lnt LNTOPT\dir.lnt   G:\d052_centos7\storware\kernel\disk\vd_class.c 
+
+--- Module:   G:\d052_centos7\storware\kernel\disk\vd_class.c (C)
+
+/// Start of Pass 2 ///
+
+--- Module:   G:\d052_centos7\storware\kernel\disk\vd_class.c (C)
+
+/// Start of Pass 3 ///
+
+--- Module:   G:\d052_centos7\storware\kernel\disk\vd_class.c (C)
+
